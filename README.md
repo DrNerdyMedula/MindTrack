@@ -22,3 +22,6 @@ How to deal with issues in python, arduino, and hardware connection with arduino
 
 ## What's next for MindTrack
 Incorporation of the drone idea. We will also look at other applications of using focus as an input where it can advance medicine. Our focus would be on combining the knowledge of neuroscience and engineering. 
+
+## OpenBCI Community Article
+https://openbci.com/community/the-road-to-developing-our-bci-to-maximize-student-focus-and-potential/ 
